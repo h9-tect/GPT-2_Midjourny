@@ -1,4 +1,4 @@
 transformers==4.6.1
-transformers==4.6.1
+torch==2.0.1
 replicate==0.8.2
 streamlit==0.89.0
